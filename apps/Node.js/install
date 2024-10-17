@@ -1,6 +1,6 @@
 #!/bin/bash
 
-version=v22.9.0
+version=v23.0.0
 version2=v0.39.7
 
 #Checking if using armv6
